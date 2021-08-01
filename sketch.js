@@ -56,7 +56,7 @@ function setup(){
 function draw(){
    //start the game
    background(200, 200, 255);
-
+   console.log(gameState);
    //start the game
  
   //start the game
