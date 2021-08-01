@@ -8,7 +8,7 @@ class Game {
             gameStateRef.on("value",function(data){
                gameState = data.val();
             })
-        
+         console.log(gameState)
           }
         
           update(state){
